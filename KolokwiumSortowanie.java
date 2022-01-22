@@ -121,9 +121,9 @@ public class KolokwiumSortowanie extends JFrame implements ActionListener {
 	}
 		catch (Exception e){
 			
-			pole_a.setText("Chcesz mi zjebaæ program? Podaj liczbê ca³kowit¹!");
-			pole_b.setText("Chcesz mi zjebaæ program? Podaj liczbê ca³kowit¹!");
-			pole_c.setText("Chcesz mi zjebaæ program? Podaj liczbê ca³kowit¹!");
+			pole_a.setText("Podaj liczbÃª caÂ³kowitÂ¹!");
+			pole_b.setText("Podaj liczbÃª caÂ³kowitÂ¹!");
+			pole_c.setText("Podaj liczbÃª caÂ³kowitÂ¹!");
 			
 		}		
 		
